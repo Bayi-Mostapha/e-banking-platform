@@ -257,28 +257,6 @@ Frontend disponible sur :
 http://localhost:4200
 ```
 
----
-
-# 📸 Captures d'Écran
-
-## Dashboard
-
-Ajouter ici une capture du tableau de bord.
-
----
-
-## Authentification
-
-Ajouter ici une capture de la page login.
-
----
-
-## Gestion des Données
-
-Ajouter ici les captures CRUD.
-
----
-
 # 📚 Concepts Techniques Utilisés
 
 * Architecture REST
