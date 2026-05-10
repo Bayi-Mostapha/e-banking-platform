@@ -301,7 +301,7 @@ Ajouter ici les captures CRUD.
 | Frontend  | [http://localhost:4200](http://localhost:4200)                           |
 | Backend   | [http://localhost:8080](http://localhost:8080)                           |
 | Swagger   | [http://localhost:8080/swagger-ui](http://localhost:8080/swagger-ui)     |
-| GitHub    | [https://github.com/your-repository](https://github.com/your-repository) |
+| GitHub    | [https://github.com/Bayi-Mostapha/e-banking-platform](https://github.com/Bayi-Mostapha/e-banking-platform)) |
 
 ---
 
